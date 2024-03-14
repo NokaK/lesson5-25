@@ -1,0 +1,31 @@
+/* reset css */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+a {
+  text-decoration: none;
+  color: initial;
+}
+ul {
+  list-style: none;
+}
+/* reset css */
+
+/* global styles */
+
+.description {
+  margin-top: 32px;
+}
+.nav-item {
+  background-color: brown;
+  border: 8px solid green;
+  padding-top: 20px;
+  padding-left: 50px;
+  margin-top: 30px;
+  width: 100px;
+}
+h1 {
+  margin-top: 90px;
+}
